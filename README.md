@@ -4,7 +4,7 @@ Quelques indications:
 
 - Le dossier CodeSource contient l'ensemble du code de l'application et la BDD sous format .7z car l'apport était totalement désorganisé sans le "zippage".
 - Le dossier Exécutable contient la documentation utilisateur, l'exécutable de l'application et la BDD.
-- Les javadocs sont dans
+- Les javadocs se se trouvent dans le zip WasteAdmin1.0 dans le dossier doc.
 
 IMPORTANT:
 
